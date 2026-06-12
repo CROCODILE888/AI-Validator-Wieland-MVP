@@ -96,6 +96,16 @@ The app will open in your browser at: http://localhost:8501
 - **Email Notifications**: Send results via email (optional)
 - **Audit Logging**: Full audit trail of all queries and results
 
+## Live Demo
+
+Try the live application here: **[DataDoctor - Master Data Validation](https://ai-validator-wieland-mvp.streamlit.app/)**
+
+### Screenshots
+
+![Validation Query Interface](resources/live-snapshots/1.png)
+
+![Results View](resources/live-snapshots/2.png)
+
 ## Example Queries
 
 1. "Show all routing operations where the number of workers in SAP does not match the machine master"
