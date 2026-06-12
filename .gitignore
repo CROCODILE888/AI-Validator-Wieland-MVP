@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Local database
+audit_log.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit config (comment out if you want different settings per deployment)
+# .streamlit/
+# config.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+Lib/
+*.exe
